@@ -1,0 +1,28 @@
+h1 {
+  font-family: sans-serif;
+  color: #140601;
+}
+body {
+  box-sizing: border-box;
+}
+
+#msg {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#redactWords {
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
